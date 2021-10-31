@@ -120,6 +120,11 @@ public static class NPC
         new Entity("Ms. Elliot", "Nowadays, the sun is going down very early."),
         new Entity("Mr. Grant", "I live in a house with eleven bedrooms and one bathroom."),
         new Entity("Harry Griffiths", "I am a cook! You should come and visit my restaurant sometime!")
+        new Entity("Oscar Wilde","Be yourself; everyone else is already taken.")
+        new Entity("Jiraiya", "Rejection is a part of any man’s life. If you can’t accept and move past rejection, or at least use it as writing material – you’re not a real man."),
+        new Entity("Nagato", "If you don’t share someone’s pain, you can never understand them."),
+        new Entity("Jack Sparrow", "The problem is not the problem. The problem is your attitude about the problem."),
+        new Entity("Forrest Gump", "Life is like a box a chocolate, you never know what your going to get.")
     };
 }
 
